@@ -1,3 +1,5 @@
+package JobSequence;
+
 import java.util.*;
 
 class Job {

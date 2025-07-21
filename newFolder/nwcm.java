@@ -4,8 +4,8 @@ public class nwcm {
 
 
     public static void main(String[] args) {
-        int[] supply = {20, 30, 25};  // supply from each source
-        int[] demand = {10, 25, 15, 25}; // demand at each destination
+        int[] supply = {20, 30, 25,90,40,10};  // supply from each source
+        int[] demand = {10, 25, 15, 25, 70,80}; // demand at each destination
 
         int[][] cost = {
             {8, 6, 10, 9},
